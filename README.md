@@ -1,8 +1,8 @@
-<kbd><img width="250" alt="Image" src="https://github.com/user-attachments/assets/beb37a35-8512-42ca-803d-fd322291ca11" />
-<kbd><img width="250" alt="Image" src="https://github.com/user-attachments/assets/4b7f648d-73f9-4a81-8511-6bfeeb4b901c" />
-<kbd><img width="250" alt="Image" src="https://github.com/user-attachments/assets/caa4d9f1-7e28-4581-9b30-522fc8835c2b" />
-<kbd><img width="250" alt="Image" src="https://github.com/user-attachments/assets/b38b88e0-7086-438c-80a9-7d8ce7d63937" />
-<kbd><img width="250" alt="Image" src="https://github.com/user-attachments/assets/dbb934e4-dc78-437f-9421-d541afdcd5c2" />
+<img width="250" alt="Image" src="https://github.com/user-attachments/assets/beb37a35-8512-42ca-803d-fd322291ca11" />
+<img width="250" alt="Image" src="https://github.com/user-attachments/assets/4b7f648d-73f9-4a81-8511-6bfeeb4b901c" />
+<img width="250" alt="Image" src="https://github.com/user-attachments/assets/caa4d9f1-7e28-4581-9b30-522fc8835c2b" />
+<img width="250" alt="Image" src="https://github.com/user-attachments/assets/b38b88e0-7086-438c-80a9-7d8ce7d63937" />
+<img width="250" alt="Image" src="https://github.com/user-attachments/assets/dbb934e4-dc78-437f-9421-d541afdcd5c2" />
 
 # Welcome to your Expo app 👋
 
